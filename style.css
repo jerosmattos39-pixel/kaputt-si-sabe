@@ -21,7 +21,7 @@ background: linear-gradient(180deg,#020702 0%, rgb(231, 8, 231) 17%, rgb(0, 0, 0
 
 #blanco {
   color: #000000;
-  -webkit-text-stroke: 0.1px black;
+  -webkit-text-stroke: 0.1px rgb(0, 0, 0);
 }
 #button1 {
    display: inline-block;
@@ -38,7 +38,7 @@ background: linear-gradient(180deg,#020702 0%, rgb(231, 8, 231) 17%, rgb(0, 0, 0
   color: #f30cf3;
 }
 #blanco1 {
-    color: #0cd6f9;
+    color: #070a0b;
     -webkit-text-stroke: 0.1px black;
     font-size: 16px;
     font-family: "Keania One", sans-serif;
@@ -50,8 +50,8 @@ background: linear-gradient(180deg,#020702 0%, rgb(231, 8, 231) 17%, rgb(0, 0, 0
     }
 .img1 {
     position: absolute;
-    top: 400px;   
-    left: 100px;   
+    top: 40px;   
+    left: 1000px;   
     width: 400px; 
 }
 
