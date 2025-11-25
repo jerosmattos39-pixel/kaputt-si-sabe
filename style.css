@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Keania+One&display=swap');
 
  body {
- background: #6400df;
-background: linear-gradient(180deg,#3c136e 0%, rgba(0, 0, 0, 1) 17%, rgb(70, 4, 1) 54%, rgba(255, 0, 77, 1) 80%);
+ background: #85067b;
+background: linear-gradient(180deg,#020702 0%, rgb(231, 8, 231) 17%, rgb(0, 0, 0) 54%, rgb(87, 1, 95) 80%);
   font-family: 'Keania One', sans-serif;
   margin: 0;
   padding: 0px;
@@ -11,7 +11,7 @@ background: linear-gradient(180deg,#3c136e 0%, rgba(0, 0, 0, 1) 17%, rgb(70, 4, 
   box-sizing: border-box;
 }
 #tith {
-  color: #EC485D;
+  color: #000000;
   position: relative; 
     top: 0px;
     left: 40px;
@@ -20,13 +20,13 @@ background: linear-gradient(180deg,#3c136e 0%, rgba(0, 0, 0, 1) 17%, rgb(70, 4, 
 }
 
 #blanco {
-  color: #FFDEDE;
+  color: #000000;
   -webkit-text-stroke: 0.1px black;
 }
 #button1 {
    display: inline-block;
-  background: linear-gradient(to bottom, #69001F, #000000);
-  color: #CF0F47;
+  background: linear-gradient(to bottom, #000000, #000000);
+  color: #7404ec;
   border: none;
   padding: 12px 25px;
   border-radius: 8px;
@@ -35,10 +35,10 @@ background: linear-gradient(180deg,#3c136e 0%, rgba(0, 0, 0, 1) 17%, rgb(70, 4, 
   margin-bottom: 1px;
 }
 #indexsp {
-  color: #FFDEDE;
+  color: #f30cf3;
 }
 #blanco1 {
-    color: #FFDEDE;
+    color: #0cd6f9;
     -webkit-text-stroke: 0.1px black;
     font-size: 16px;
     font-family: "Keania One", sans-serif;
