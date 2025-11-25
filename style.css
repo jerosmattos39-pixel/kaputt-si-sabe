@@ -66,42 +66,42 @@ background: linear-gradient(180deg,#3c136e 0%, rgba(0, 0, 0, 1) 17%, rgba(10, 1,
   position: absolute;
   top: 400px;
   left: 1100px;
-  widht:400px;
+  width:400px;
 }
 
 .img3 {
   position: absolute;
   top: 400px;
   left: 100px;
-  widht: 100px;
+  width: 100px;
 }
 
 .img4 {
   position: absolute;
   top: 250px;
   left: 800px;
-  widht: 200px;
+  width: 200px;
 }
 
 .img5{
   position: absolute;
   top: 300px;
   left: 100px;
-  widht: 300px;
+  width: 300px;
 }
 
 .img6{
   position: absolute;
   top: 370px;
   left: 90px;
-  widht: 800px;
+  width: 800px;
 }
 
 .img7{
   position: absolute;
   top: 200px;
   left: 90px;
-  widht: 800px;
+  width: 800px;
 }
 
 .img8{
@@ -115,12 +115,12 @@ background: linear-gradient(180deg,#3c136e 0%, rgba(0, 0, 0, 1) 17%, rgba(10, 1,
   position: absolute;
   top: 300px;
   left: 90px;
-  widht: 800px;
+  width: 800px;
 }
 
 .img10{
   position: absolute;
   top: 280px;
   left: 90px;
-  widht: 800px;
+  width: 800px;
 }
