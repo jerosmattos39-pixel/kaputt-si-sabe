@@ -21,6 +21,9 @@ background: linear-gradient(180deg,#020702 0%, rgb(231, 8, 231) 17%, rgb(0, 0, 0
 .intro {
   color:azure;
 }
+.page-title {
+  color: white
+}
 #blanco {
   color: #000000;
   -webkit-text-stroke: 0.1px rgb(255, 255, 255);
