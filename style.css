@@ -18,7 +18,9 @@ background: linear-gradient(180deg,#020702 0%, rgb(231, 8, 231) 17%, rgb(0, 0, 0
     font-size: 70px;
     top: 20px;
 }
-
+.intro {
+  color:azure;
+}
 #blanco {
   color: #000000;
   -webkit-text-stroke: 0.1px rgb(255, 255, 255);
@@ -35,7 +37,7 @@ background: linear-gradient(180deg,#020702 0%, rgb(231, 8, 231) 17%, rgb(0, 0, 0
   margin-bottom: 1px;
 }
 #indexsp {
-  color: #393439;
+  color: #343232;
 }
 #blanco1 {
     color: #000000;
