@@ -21,7 +21,7 @@ background: linear-gradient(180deg,#020702 0%, rgb(231, 8, 231) 17%, rgb(0, 0, 0
 
 #blanco {
   color: #000000;
-  -webkit-text-stroke: 0.1px rgb(0, 0, 0);
+  -webkit-text-stroke: 0.1px rgb(255, 255, 255);
 }
 #button1 {
    display: inline-block;
@@ -50,16 +50,16 @@ background: linear-gradient(180deg,#020702 0%, rgb(231, 8, 231) 17%, rgb(0, 0, 0
     }
 .img1 {
     position: absolute;
-    top: 40px;   
-    left: 1000px;   
+    top: 300px;   
+    left: 1100px;   
     width: 400px; 
 }
 
 .img2 {
     position: absolute;
-    top: 400px;   
-    left: 600px;
-    width: 400px;
+    top: 300px;   
+    left: 700px;
+    width: 300px;
 }
 
 .vid1 {
@@ -71,9 +71,9 @@ background: linear-gradient(180deg,#020702 0%, rgb(231, 8, 231) 17%, rgb(0, 0, 0
 
 .img3 {
   position: absolute;
-  top: 400px;
-  left: 100px;
-  width: 100px;
+  top: 200px;
+  left: 900px;
+  width: 600px;
 }
 
 .img4 {
@@ -106,21 +106,21 @@ background: linear-gradient(180deg,#020702 0%, rgb(231, 8, 231) 17%, rgb(0, 0, 0
 
 .img8{
    position: absolute;
-  top: 380px;
-  left: 90px;
-  width: 800px;
+  top: 200px;
+  left: 900px;
+  width: 400px;
 }
 
 .img9{
   position: absolute;
-  top: 300px;
-  left: 90px;
-  width: 800px;
+  top: 350px;
+  left: 800px;
+  width: 700px;
 }
 
 .img10{
   position: absolute;
-  top: 280px;
+  top: 400px;
   left: 90px;
   width: 800px;
 }
